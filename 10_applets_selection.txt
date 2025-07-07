@@ -1,0 +1,18 @@
+Knowledge Graph Page (Home)
+
+Icons: Data Category circle, App triangle, Trigger/Action rectangle
+
+Applications to be added
+# - Data Category + Trigger → app id → Action - Description
+1 -  Image and Video + Android →ALPqV3Fs  → Google Drive - New photo on Android upload on Google Drive
+2 - Image and Video + iOS Photos → QrdtFv5E  → Google Drive - Backup iOS photos to Google Drive
+3 - Image and Video + Instagram → LUxFA7ce  → Twitter - Instagram photos posted to Twitter
+4 - Personal Information + iOS Conracts → J7Qjf8Dr  → Google Sheets - Save new iOS contacts to Google Sheets
+5 - Personal Information + iOS Contacts → ZuRU4kzy  → Google Contacts - Save iOS contacts to Google Contacts
+6 - Personal Information + Android → gTQep2wJ → Google Sheets - Log phone calls to Google Sheets
+7 - Location + Location → KD87nZVq  → Google Calendar - Track arrival/departure from work location
+8 - Personal Information + Youtube → pc6CeRjs  → Spotify - Add YouTube liked videos to Spotify playlist
+9 - Personal Information + Facebook → yfaY7BnX  → Twitter - Tweet Facebook status updates
+10 - Personal Information + Notes → Wy89cqfv  → Calendar - Create calendar events from notes
+
+
